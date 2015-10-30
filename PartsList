@@ -1,0 +1,14 @@
+Part     Value          Device         Package   
+C1       1mf            C-USC0603      C0603     
+C2       10n            C-USC0603      C0603     
+D1       1N4001         1N40041        DO41-10  
+IC1      LM317          LM317TS        317TS    
+IC2      LM3420AM5X-8.4 LM3420AM5X-8.4 SOT23-5   
+JP1      DC IN          PINHD-1X2      1X02      
+JP2      BAT            PINHD-1X2      1X02      
+KK1      SK104-PAD      SK104-PAD      SK104-PAD 
+Q1,Q2    2N2222         2N2222         TO92      
+R1       36R            R-US_0204/2V   0204V     
+R2,R4    1k             R-US_0204/2V   0204V     
+R3       100k           R-US_0204/2V   0204V    
+R5       10k            R-US_0204/2V   0204V 
