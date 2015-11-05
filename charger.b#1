@@ -2639,7 +2639,7 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="17.145" y="1.905" size="1.27" layer="25"/>
 <attribute name="VALUE" x="13.335" y="0.635" size="1.27" layer="27"/>
 </element>
-<element name="D1" library="diode" package="DO41-10" value="1N4004" x="21.59" y="10.16" rot="R180"/>
+<element name="D1" library="diode" package="DO41-10" value="1N4001" x="21.59" y="10.16" rot="R180"/>
 <element name="IC1" library="v-reg" package="317TS" value="LM317" x="16.51" y="20.32" smashed="yes">
 <attribute name="NAME" x="11.43" y="14.2748" size="1.27" layer="25" ratio="10"/>
 <attribute name="VALUE" x="15.24" y="13.97" size="1.27" layer="27" ratio="10"/>
@@ -2706,7 +2706,7 @@ Please make sure your boards conform to these design rules.</description>
 <wire x1="8.89" y1="17.78" x2="8.89" y2="7.62" width="1.016" layer="16"/>
 <wire x1="5.08" y1="8.89" x2="8.89" y2="7.62" width="1.016" layer="16"/>
 </signal>
-<signal name="N$4">
+<signal name="V+">
 <contactref element="IC1" pad="3"/>
 <contactref element="R5" pad="1"/>
 <contactref element="C1" pad="1"/>

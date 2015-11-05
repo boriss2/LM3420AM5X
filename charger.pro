@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/Regina/Desktop/EagleDesign/charger.brd
 
-Start at      : 19:00:40 (10/29/15)
-End at        : 19:00:00 (12/31/69)
-Elapsed time  : 00:00:00
+Start at      : 11:32:36 (11/4/15)
+End at        : 11:32:42 (11/4/15)
+Elapsed time  : 00:00:04
 
 Signals       :    11   RoutingGrid: 6 mil  Layers: 2
-Connections   :    22   predefined:  22 ( 0 Vias )
+Connections   :    22   predefined:  21 ( 0 Vias )
 
-Router memory :   182952
+Router memory :   203280
 
-Passname          : TopRouter
+Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:00
-Number of Ripups  :         0
-max. Level        :         0
-max. Total        :         0
+Time per pass     :  00:00:04  00:00:00  00:00:00  00:00:00  00:00:00  00:00:00
+Number of Ripups  :         0         0         0         0         0         0
+max. Level        :         0         0         0         0         0         0
+max. Total        :         0         0         0         0         0         0
 
-Routed            :         0
-Vias              :         0
-Resolution        :   100.0 %
+Routed            :         0         1         1         1         1         1
+Vias              :         0         0         0         0         0         0
+Resolution        :    95.5 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
